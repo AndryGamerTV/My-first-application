@@ -13,7 +13,7 @@ $(document).ready(function() {
       text.content = 'Hello World!';
 
       tool.onMouseDown = function(event) {
-            var c = Shape.Circle(event.point, 20);
+            var c = Shape.Circle(event.point, 10);
             c.fillColor = 'green';
       };
 
