@@ -1,3 +1,5 @@
-My first application!
+= Learning JavaScript , Зrd Edition 
+== Chapter 2: JavaScript Development Tools
 
-Welcome to Lerning JavaScript, 3rd Edition
+In this chapter we're learning about Git and other 
+development tools. 
